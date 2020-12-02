@@ -1,0 +1,1 @@
+Remember to use git for your thesis
